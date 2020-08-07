@@ -1,0 +1,2 @@
+# joodee
+A discord bot
